@@ -1,4 +1,6 @@
 
 
 Hello there!
+One more line after global config setting using bash on WSL
+(windows subsystem for linux)
 
