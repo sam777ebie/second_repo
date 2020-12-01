@@ -1,1 +1,2 @@
 hello
+Testing some file change from the new windows terminal, using bash
